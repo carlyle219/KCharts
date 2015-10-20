@@ -1,0 +1,27 @@
+# view AndroidManifest.xml #generated:13
+-keep class com.yilong.charts.MainActivity { <init>(...); }
+
+# view res/layout/fragment_k_charts.xml #generated:10
+-keep class com.yilong.charts.touchlayout.KchartsTouchLinearLayout { <init>(...); }
+
+# view res/layout/fragment_minute_charts.xml #generated:10
+-keep class com.yilong.charts.touchlayout.MinuteTouchLinearLayout { <init>(...); }
+
+# view res/layout/main.xml #generated:11
+-keep class com.yilong.charts.view.ChartTabView { <init>(...); }
+
+# view res/layout/fragment_k_charts.xml #generated:18
+-keep class com.yilong.charts.view.KChartView { <init>(...); }
+
+# view res/layout/fragment_k_charts.xml #generated:25
+-keep class com.yilong.charts.view.KchartVolumeView { <init>(...); }
+
+# view res/layout/main.xml #generated:19
+-keep class com.yilong.charts.view.MyFrameLayout { <init>(...); }
+
+# view res/layout/fragment_minute_charts.xml #generated:18
+-keep class com.yilong.charts.view.NewMinuteChartView { <init>(...); }
+
+# view res/layout/fragment_minute_charts.xml #generated:24
+-keep class com.yilong.charts.view.VolumeChartView { <init>(...); }
+

@@ -1,0 +1,308 @@
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentActivity: FragmentActivity()
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentTabHost: void setOnTabChangedListener(android.widget.TabHost$OnTabChangeListener)
+android.support.v4.app.FragmentTabHost$SavedState
+android.support.v4.app.FragmentTabHost$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status[] values()
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status valueOf(java.lang.String)
+android.support.v4.media.MediaMetadataCompat
+android.support.v4.media.MediaMetadataCompat: android.os.Parcelable$Creator CREATOR
+android.support.v4.media.RatingCompat
+android.support.v4.media.RatingCompat: android.os.Parcelable$Creator CREATOR
+android.support.v4.media.session.MediaSessionCompat$Token
+android.support.v4.media.session.MediaSessionCompat$Token: android.os.Parcelable$Creator CREATOR
+android.support.v4.media.session.PlaybackStateCompat
+android.support.v4.media.session.PlaybackStateCompat: android.os.Parcelable$Creator CREATOR
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColor(int)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColorResource(int)
+android.support.v4.view.PagerTabStrip: int getTabIndicatorColor()
+android.support.v4.view.PagerTabStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.PagerTabStrip: void setBackgroundColor(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundResource(int)
+android.support.v4.view.PagerTabStrip: void setDrawFullUnderline(boolean)
+android.support.v4.view.PagerTabStrip: boolean getDrawFullUnderline()
+android.support.v4.view.PagerTabStrip: int getMinHeight()
+android.support.v4.view.PagerTitleStrip: void setSingleLineAllCaps(android.widget.TextView)
+android.support.v4.view.PagerTitleStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTitleStrip: int getTextSpacing()
+android.support.v4.view.PagerTitleStrip: void setNonPrimaryAlpha(float)
+android.support.v4.view.PagerTitleStrip: void setTextColor(int)
+android.support.v4.view.PagerTitleStrip: void setGravity(int)
+android.support.v4.view.PagerTitleStrip: int getMinHeight()
+android.support.v4.view.ViewPager: void setScrollState(int)
+android.support.v4.view.ViewPager: void setAdapter(android.support.v4.view.PagerAdapter)
+android.support.v4.view.ViewPager: android.support.v4.view.PagerAdapter getAdapter()
+android.support.v4.view.ViewPager: void setOnAdapterChangeListener(android.support.v4.view.ViewPager$OnAdapterChangeListener)
+android.support.v4.view.ViewPager: int getClientWidth()
+android.support.v4.view.ViewPager: void setCurrentItem(int)
+android.support.v4.view.ViewPager: int getCurrentItem()
+android.support.v4.view.ViewPager: void setOnPageChangeListener(android.support.v4.view.ViewPager$OnPageChangeListener)
+android.support.v4.view.ViewPager: void setChildrenDrawingOrderEnabledCompat(boolean)
+android.support.v4.view.ViewPager: int getOffscreenPageLimit()
+android.support.v4.view.ViewPager: void setOffscreenPageLimit(int)
+android.support.v4.view.ViewPager: void setPageMargin(int)
+android.support.v4.view.ViewPager: int getPageMargin()
+android.support.v4.view.ViewPager: void setPageMarginDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.ViewPager: void setPageMarginDrawable(int)
+android.support.v4.view.ViewPager: void setScrollingCacheEnabled(boolean)
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.DrawerLayout: void setScrimColor(int)
+android.support.v4.widget.DrawerLayout: void setDrawerListener(android.support.v4.widget.DrawerLayout$DrawerListener)
+android.support.v4.widget.DrawerLayout: void setDrawerLockMode(int)
+android.support.v4.widget.DrawerLayout: void setStatusBarBackground(android.graphics.drawable.Drawable)
+android.support.v4.widget.DrawerLayout: void setStatusBarBackground(int)
+android.support.v4.widget.DrawerLayout: void setStatusBarBackgroundColor(int)
+android.support.v4.widget.DrawerLayout$SavedState
+android.support.v4.widget.DrawerLayout$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.SlidingPaneLayout: void setParallaxDistance(int)
+android.support.v4.widget.SlidingPaneLayout: int getParallaxDistance()
+android.support.v4.widget.SlidingPaneLayout: void setSliderFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getSliderFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setCoveredFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getCoveredFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setPanelSlideListener(android.support.v4.widget.SlidingPaneLayout$PanelSlideListener)
+android.support.v4.widget.SlidingPaneLayout: void setShadowDrawable(android.graphics.drawable.Drawable)
+android.support.v4.widget.SlidingPaneLayout: void setShadowDrawableLeft(android.graphics.drawable.Drawable)
+android.support.v4.widget.SlidingPaneLayout: void setShadowDrawableRight(android.graphics.drawable.Drawable)
+android.support.v4.widget.SlidingPaneLayout: void setShadowResource(int)
+android.support.v4.widget.SlidingPaneLayout: void setShadowResourceLeft(int)
+android.support.v4.widget.SlidingPaneLayout: void setShadowResourceRight(int)
+android.support.v4.widget.SlidingPaneLayout$SavedState
+android.support.v4.widget.SlidingPaneLayout$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.SwipeRefreshLayout: void setColorViewAlpha(int)
+android.support.v4.widget.SwipeRefreshLayout: void setSize(int)
+android.support.v4.widget.SwipeRefreshLayout: void setOnRefreshListener(android.support.v4.widget.SwipeRefreshLayout$OnRefreshListener)
+android.support.v4.widget.SwipeRefreshLayout: void setRefreshing(boolean)
+android.support.v4.widget.SwipeRefreshLayout: void setAnimationProgress(float)
+android.support.v4.widget.SwipeRefreshLayout: void setProgressBackgroundColor(int)
+android.support.v4.widget.SwipeRefreshLayout: void setColorScheme(int[])
+android.support.v4.widget.SwipeRefreshLayout: void setColorSchemeResources(int[])
+android.support.v4.widget.SwipeRefreshLayout: void setColorSchemeColors(int[])
+android.support.v4.widget.SwipeRefreshLayout: void setDistanceToTriggerSync(int)
+com.meilishuo.gson.FieldNamingPolicy: com.meilishuo.gson.FieldNamingPolicy[] values()
+com.meilishuo.gson.FieldNamingPolicy: com.meilishuo.gson.FieldNamingPolicy valueOf(java.lang.String)
+com.meilishuo.gson.LongSerializationPolicy: com.meilishuo.gson.LongSerializationPolicy[] values()
+com.meilishuo.gson.LongSerializationPolicy: com.meilishuo.gson.LongSerializationPolicy valueOf(java.lang.String)
+com.meilishuo.gson.stream.JsonToken: com.meilishuo.gson.stream.JsonToken[] values()
+com.meilishuo.gson.stream.JsonToken: com.meilishuo.gson.stream.JsonToken valueOf(java.lang.String)
+com.yilong.charts.MainActivity
+com.yilong.charts.MainActivity: MainActivity()
+com.yilong.charts.R$color: int black
+com.yilong.charts.R$color: int black_t38
+com.yilong.charts.R$color: int black_t50
+com.yilong.charts.R$color: int black_t70
+com.yilong.charts.R$color: int blck_text
+com.yilong.charts.R$color: int blue
+com.yilong.charts.R$color: int blue_l1
+com.yilong.charts.R$color: int green
+com.yilong.charts.R$color: int grey
+com.yilong.charts.R$color: int grey_d1
+com.yilong.charts.R$color: int grey_d1_t20
+com.yilong.charts.R$color: int grey_d2
+com.yilong.charts.R$color: int grey_d28
+com.yilong.charts.R$color: int grey_d2_t10
+com.yilong.charts.R$color: int grey_d2_t15
+com.yilong.charts.R$color: int grey_d2_t80
+com.yilong.charts.R$color: int grey_d3
+com.yilong.charts.R$color: int grey_d3_1
+com.yilong.charts.R$color: int grey_d3_t40
+com.yilong.charts.R$color: int grey_d4
+com.yilong.charts.R$color: int grey_d4_t65
+com.yilong.charts.R$color: int grey_d4_t80
+com.yilong.charts.R$color: int grey_d5
+com.yilong.charts.R$color: int grey_d5_t20
+com.yilong.charts.R$color: int grey_d6
+com.yilong.charts.R$color: int grey_d7
+com.yilong.charts.R$color: int grey_d8
+com.yilong.charts.R$color: int grey_d9
+com.yilong.charts.R$color: int grey_l1
+com.yilong.charts.R$color: int grey_l10
+com.yilong.charts.R$color: int grey_l11
+com.yilong.charts.R$color: int grey_l12
+com.yilong.charts.R$color: int grey_l13
+com.yilong.charts.R$color: int grey_l14
+com.yilong.charts.R$color: int grey_l15
+com.yilong.charts.R$color: int grey_l16
+com.yilong.charts.R$color: int grey_l17
+com.yilong.charts.R$color: int grey_l18
+com.yilong.charts.R$color: int grey_l19
+com.yilong.charts.R$color: int grey_l2
+com.yilong.charts.R$color: int grey_l20
+com.yilong.charts.R$color: int grey_l3
+com.yilong.charts.R$color: int grey_l4
+com.yilong.charts.R$color: int grey_l5
+com.yilong.charts.R$color: int grey_l6
+com.yilong.charts.R$color: int grey_l7
+com.yilong.charts.R$color: int grey_l8
+com.yilong.charts.R$color: int grey_l9_t60
+com.yilong.charts.R$color: int grey_shop
+com.yilong.charts.R$color: int grey_t20
+com.yilong.charts.R$color: int grey_t30
+com.yilong.charts.R$color: int grey_t80
+com.yilong.charts.R$color: int grey_t80_1
+com.yilong.charts.R$color: int orange
+com.yilong.charts.R$color: int pink
+com.yilong.charts.R$color: int pink_99
+com.yilong.charts.R$color: int pink_d1
+com.yilong.charts.R$color: int pink_d1_t28
+com.yilong.charts.R$color: int pink_d2
+com.yilong.charts.R$color: int pink_d3
+com.yilong.charts.R$color: int pink_d4
+com.yilong.charts.R$color: int pink_d4_t1
+com.yilong.charts.R$color: int pink_d4_t2
+com.yilong.charts.R$color: int pink_d5
+com.yilong.charts.R$color: int pink_d6
+com.yilong.charts.R$color: int pink_d7
+com.yilong.charts.R$color: int pink_d7_t14
+com.yilong.charts.R$color: int pink_d7_t80
+com.yilong.charts.R$color: int pink_d8
+com.yilong.charts.R$color: int pink_d8_t1
+com.yilong.charts.R$color: int pink_l1
+com.yilong.charts.R$color: int pink_l2
+com.yilong.charts.R$color: int pink_l2_t90
+com.yilong.charts.R$color: int pink_l3
+com.yilong.charts.R$color: int pink_l4
+com.yilong.charts.R$color: int pink_l5
+com.yilong.charts.R$color: int pink_l6
+com.yilong.charts.R$color: int pink_t60
+com.yilong.charts.R$color: int pink_t70
+com.yilong.charts.R$color: int pink_t80
+com.yilong.charts.R$color: int pink_text_bacground
+com.yilong.charts.R$color: int purple
+com.yilong.charts.R$color: int purple_l1_t70
+com.yilong.charts.R$color: int red
+com.yilong.charts.R$color: int red_l1
+com.yilong.charts.R$color: int red_shop_1
+com.yilong.charts.R$color: int red_shop_2
+com.yilong.charts.R$color: int transparent
+com.yilong.charts.R$color: int white
+com.yilong.charts.R$color: int white_t50
+com.yilong.charts.R$color: int white_t90
+com.yilong.charts.R$color: int white_t95
+com.yilong.charts.R$color: int write
+com.yilong.charts.R$color: int yellow_d0
+com.yilong.charts.R$color: int yellow_d1
+com.yilong.charts.R$color: int yellow_d2
+com.yilong.charts.R$color: int yellow_d3
+com.yilong.charts.R$color: int yellow_d3_t30
+com.yilong.charts.R$color: int yellow_d4
+com.yilong.charts.R$color: int yellow_shop
+com.yilong.charts.R$color: int yellow_t75
+com.yilong.charts.R$drawable: int ic_launcher
+com.yilong.charts.R$id: int chart_tabview
+com.yilong.charts.R$id: int day_red
+com.yilong.charts.R$id: int frame_layout
+com.yilong.charts.R$id: int height_price
+com.yilong.charts.R$id: int k_chart
+com.yilong.charts.R$id: int k_chart_touch
+com.yilong.charts.R$id: int lasest_price
+com.yilong.charts.R$id: int ma_chart
+com.yilong.charts.R$id: int minute_red
+com.yilong.charts.R$id: int minute_toutch
+com.yilong.charts.R$id: int month_red
+com.yilong.charts.R$id: int text_day_K
+com.yilong.charts.R$id: int text_minute
+com.yilong.charts.R$id: int text_month_K
+com.yilong.charts.R$id: int text_volume
+com.yilong.charts.R$id: int text_week_K
+com.yilong.charts.R$id: int today_open_price
+com.yilong.charts.R$id: int volume_chart
+com.yilong.charts.R$id: int week_red
+com.yilong.charts.R$layout: int fragment_k_charts
+com.yilong.charts.R$layout: int fragment_minute_charts
+com.yilong.charts.R$layout: int fragment_test_charts
+com.yilong.charts.R$layout: int main
+com.yilong.charts.R$layout: int minute_k_infomation_layout
+com.yilong.charts.R$layout: int view_charts_tab
+com.yilong.charts.R$string: int app_name
+com.yilong.charts.R$style: int tab_bg_style
+com.yilong.charts.R$style: int tab_red_line_style
+com.yilong.charts.touchlayout.KchartsTouchLinearLayout
+com.yilong.charts.touchlayout.KchartsTouchLinearLayout: KchartsTouchLinearLayout(android.content.Context)
+com.yilong.charts.touchlayout.KchartsTouchLinearLayout: KchartsTouchLinearLayout(android.content.Context,android.util.AttributeSet,int)
+com.yilong.charts.touchlayout.KchartsTouchLinearLayout: KchartsTouchLinearLayout(android.content.Context,android.util.AttributeSet)
+com.yilong.charts.touchlayout.KchartsTouchLinearLayout: void setKData(java.util.ArrayList)
+com.yilong.charts.touchlayout.KchartsTouchLinearLayout: void setkChartBottomListener(com.yilong.charts.view.KChartView$kChartToBottomListener)
+com.yilong.charts.touchlayout.KchartsTouchLinearLayout: void setCurrentArrayLeftLocation(int)
+com.yilong.charts.touchlayout.KchartsTouchLinearLayout: void setOnKLineListener(com.yilong.charts.view.KChartView$KLineListener)
+com.yilong.charts.touchlayout.MinuteTouchLinearLayout
+com.yilong.charts.touchlayout.MinuteTouchLinearLayout: MinuteTouchLinearLayout(android.content.Context)
+com.yilong.charts.touchlayout.MinuteTouchLinearLayout: MinuteTouchLinearLayout(android.content.Context,android.util.AttributeSet,int)
+com.yilong.charts.touchlayout.MinuteTouchLinearLayout: MinuteTouchLinearLayout(android.content.Context,android.util.AttributeSet)
+com.yilong.charts.touchlayout.MinuteTouchLinearLayout: void setMinuteData(com.yilong.charts.Model.MinuteModel)
+com.yilong.charts.touchlayout.MinuteTouchLinearLayout: void setOnMinuteListener(com.yilong.charts.touchlayout.MinuteTouchLinearLayout$MinuteLineListener)
+com.yilong.charts.view.ChartTabView
+com.yilong.charts.view.ChartTabView: ChartTabView(android.content.Context)
+com.yilong.charts.view.ChartTabView: ChartTabView(android.content.Context,android.util.AttributeSet,int)
+com.yilong.charts.view.ChartTabView: ChartTabView(android.content.Context,android.util.AttributeSet)
+com.yilong.charts.view.GridChartView: GridChartView(android.content.Context)
+com.yilong.charts.view.GridChartView: GridChartView(android.content.Context,android.util.AttributeSet,int)
+com.yilong.charts.view.GridChartView: GridChartView(android.content.Context,android.util.AttributeSet)
+com.yilong.charts.view.GridChartView: android.graphics.Paint getAxisYtitlePaintFont()
+com.yilong.charts.view.GridChartView: void setAxisYLineCount(int)
+com.yilong.charts.view.GridChartView: void setMinValueColor(int)
+com.yilong.charts.view.GridChartView: void setMaxValueColor(int)
+com.yilong.charts.view.GridChartView: void setAxisYTitleWidth(float)
+com.yilong.charts.view.KChartView
+com.yilong.charts.view.KChartView: KChartView(android.content.Context)
+com.yilong.charts.view.KChartView: KChartView(android.content.Context,android.util.AttributeSet,int)
+com.yilong.charts.view.KChartView: KChartView(android.content.Context,android.util.AttributeSet)
+com.yilong.charts.view.KChartView: void setOnTouchEvent(android.view.MotionEvent)
+com.yilong.charts.view.KChartView: android.graphics.Paint getAxisYtitlePaintFont()
+com.yilong.charts.view.KChartView: void setKData(java.util.ArrayList)
+com.yilong.charts.view.KChartView: void setTouchPoint(android.graphics.PointF)
+com.yilong.charts.view.KChartView: void setLoadingText(java.lang.String)
+com.yilong.charts.view.KChartView: void setAxisYLineCount(int)
+com.yilong.charts.view.KChartView: void setMinValueColor(int)
+com.yilong.charts.view.KChartView: void setIsAbleScroll(boolean)
+com.yilong.charts.view.KChartView: java.lang.String getListTime()
+com.yilong.charts.view.KChartView: void setListTime(java.lang.String)
+com.yilong.charts.view.KChartView: void setMaxValueColor(int)
+com.yilong.charts.view.KChartView: int getCurrentArrayLeftLocation()
+com.yilong.charts.view.KChartView: void setCurrentArrayLeftLocation(int)
+com.yilong.charts.view.KChartView: void setkVolumeAxisYWidth(int)
+com.yilong.charts.view.KChartView: void setkChartBottomListener(com.yilong.charts.view.KChartView$kChartToBottomListener)
+com.yilong.charts.view.KChartView: void setOnKLineListener(com.yilong.charts.view.KChartView$KLineListener)
+com.yilong.charts.view.KchartVolumeView
+com.yilong.charts.view.KchartVolumeView: KchartVolumeView(android.content.Context)
+com.yilong.charts.view.KchartVolumeView: KchartVolumeView(android.content.Context,android.util.AttributeSet,int)
+com.yilong.charts.view.KchartVolumeView: KchartVolumeView(android.content.Context,android.util.AttributeSet)
+com.yilong.charts.view.KchartVolumeView: void setKData(java.util.ArrayList)
+com.yilong.charts.view.KchartVolumeView: void setTouchPoint(android.graphics.PointF)
+com.yilong.charts.view.NewMinuteChartView
+com.yilong.charts.view.NewMinuteChartView: NewMinuteChartView(android.content.Context)
+com.yilong.charts.view.NewMinuteChartView: NewMinuteChartView(android.content.Context,android.util.AttributeSet,int)
+com.yilong.charts.view.NewMinuteChartView: NewMinuteChartView(android.content.Context,android.util.AttributeSet)
+com.yilong.charts.view.NewMinuteChartView: android.graphics.Paint getAxisYtitlePaintFont()
+com.yilong.charts.view.NewMinuteChartView: void setMinuteData(com.yilong.charts.Model.MinuteModel)
+com.yilong.charts.view.NewMinuteChartView: void setTouchPoint(android.graphics.PointF)
+com.yilong.charts.view.NewMinuteChartView: void setAxisXTitles(java.util.List)
+com.yilong.charts.view.NewMinuteChartView: void setListTime(java.lang.String)
+com.yilong.charts.view.NewMinuteChartView: void setAxisYTitleWidth(float)
+com.yilong.charts.view.NewMinuteChartView: void setAxisYLineCount(int)
+com.yilong.charts.view.NewMinuteChartView: void setMinValueColor(int)
+com.yilong.charts.view.NewMinuteChartView: void setMaxValueColor(int)
+com.yilong.charts.view.NewMinuteChartView: void setMinuteCurrentPrive(float)
+com.yilong.charts.view.VolumeChartView
+com.yilong.charts.view.VolumeChartView: VolumeChartView(android.content.Context)
+com.yilong.charts.view.VolumeChartView: VolumeChartView(android.content.Context,android.util.AttributeSet,int)
+com.yilong.charts.view.VolumeChartView: VolumeChartView(android.content.Context,android.util.AttributeSet)
+com.yilong.charts.view.VolumeChartView: void setVolumeData(java.util.ArrayList)
+com.yilong.charts.view.VolumeChartView: void setVolumeMaxValue(int)
+com.yilong.charts.view.VolumeChartView: void setVolumeMinValue(int)
+com.yilong.charts.view.VolumeChartView: void setTouchPoint(android.graphics.PointF)
+de.greenrobot.event.ThreadMode: de.greenrobot.event.ThreadMode[] values()
+de.greenrobot.event.ThreadMode: de.greenrobot.event.ThreadMode valueOf(java.lang.String)
+org.apache.commons.codec.language.bm.NameType: org.apache.commons.codec.language.bm.NameType[] values()
+org.apache.commons.codec.language.bm.NameType: org.apache.commons.codec.language.bm.NameType valueOf(java.lang.String)
+org.apache.commons.codec.language.bm.RuleType: org.apache.commons.codec.language.bm.RuleType[] values()
+org.apache.commons.codec.language.bm.RuleType: org.apache.commons.codec.language.bm.RuleType valueOf(java.lang.String)

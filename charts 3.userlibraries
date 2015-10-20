@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="libs">
+    <archive path="/Users/MLS/Desktop/intellijProject/charts 3/libs/commons-httpclient-3.1.jar" />
+    <archive path="/Users/MLS/Desktop/intellijProject/charts 3/libs/gson-2.2.5.jar" />
+    <archive path="/Users/MLS/Desktop/intellijProject/charts 3/libs/android-support-v4.jar" />
+    <archive path="/Users/MLS/Desktop/intellijProject/charts 3/libs/httpcore-4.2.1.jar" />
+    <archive path="/Users/MLS/Desktop/intellijProject/charts 3/libs/commons-codec-1.6.jar" />
+    <archive path="/Users/MLS/Desktop/intellijProject/charts 3/libs/android-async-http-1.4.5(1).jar" />
+    <archive path="/Users/MLS/Desktop/intellijProject/charts 3/libs/eventbus-2.4.0.jar" />
+  </library>
+</eclipse-userlibraries>
+

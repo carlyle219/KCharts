@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:background="@android:color/white"
+        >
+
+    <include layout="@layout/minute_k_infomation_layout"></include>
+
+    <com.yilong.charts.view.ChartTabView
+            android:id="@+id/chart_tabview"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp">
+
+    </com.yilong.charts.view.ChartTabView>
+    <com.yilong.charts.view.MyFrameLayout
+            android:layout_weight="1"
+            android:id="@+id/frame_layout"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp">
+    </com.yilong.charts.view.MyFrameLayout>
+
+</LinearLayout>
+
